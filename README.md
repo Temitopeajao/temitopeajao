@@ -28,5 +28,5 @@ Benchmarks for testing model robustness across non-Western contexts
 ---
 
 ## Contact
-LinkedIn: https://linkedin.com/in/yourlink  
+LinkedIn: www.linkedin.com/in/temitope-ajao-4a8670302
 Email: topekele@gmail.com
