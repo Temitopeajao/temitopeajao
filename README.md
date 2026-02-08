@@ -4,7 +4,7 @@ AI Engineer | Responsible AI | NLP | Cultural Intelligence Systems
 
 I design and evaluate AI systems that work beyond the Western default — focused on language, culture, and ethical deployment in emerging markets.
 
-Previously AI Engineer at Awarri AI, where I contributed to large-scale African language and knowledge infrastructure (N-Atlas).
+Previously at Awarri AI, where I contributed to large-scale African language and knowledge infrastructure (N-Atlas).
 
 ---
 
