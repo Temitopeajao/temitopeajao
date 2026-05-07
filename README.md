@@ -1,32 +1,33 @@
-# Temitope Ajao
+# Temitope Ajao 🇳🇬
+**Founder, Ex Machina Technologies | AI Engineer | Responsible AI & Cultural Intelligence**
 
-AI Engineer | Responsible AI | NLP | Cultural Intelligence Systems
+I architect agentic AI systems that prioritize data sovereignty, local-first execution, and cultural nuance. My work focuses on building infrastructure that works beyond Western defaults—specifically for emerging markets and multilingual contexts.  
 
-I design and evaluate AI systems that work beyond the Western default — focused on language, culture, and ethical deployment in emerging markets.
+## 🛠️ Core Stack & Focus
+- **Orchestration:** p-agent, MCP (Model Context Protocol), LangChain.  
+- **Models:** Gemma 2, Llama 3, Gemini (Optimization & Evaluation).  
+- **Specialties:** LLM-as-a-Judge Pipelines, Bias Evaluation, Multilingual NLP, and Python-based Automation.  
 
-Previously at Awarri AI, where I contributed to large-scale African language and knowledge infrastructure (N-Atlas).
+## 🚀 Featured Infrastructure
 
----
+**🔹 MCP Bridge Agent**  
+A production-grade orchestrator that uses Gemma 2 and MCP to bridge siloed organizational data (SQL & Filesystems) into a single, private reasoning hub.  
 
-## Featured Projects
+**🔹 N-Atlas (via Awarri AI)**  
+Contributed to large-scale linguistic and cultural intelligence infrastructure for African AI, focusing on data curation and evaluation pipelines.  
 
-### 🔹 N-Atlas
-Large-scale linguistic & cultural intelligence infrastructure for African AI  
-NLP pipelines, data curation, evaluation systems
+**🔹 Responsible AI / Bias Evaluation**  
+Developed custom benchmarks for testing model robustness and safety across non-Western contexts to prevent cultural drift in deployment.  
 
-### 🔹 Responsible AI / Bias Evaluation Tools
-Benchmarks for testing model robustness across non-Western contexts
+## 📝 Recent Writing
+- **DEV Community:** The Death of the "Black Box": Why the Future of AI is Modular  
+- **DEV Community:** Open-Source Intelligence: Running p-agent with Gemma 2 and MCP  
+- **The Fountain Magazine:** Flux and Fury (Philosophical Essay)  
 
+## 🏛️ Background & Philosophy
+- **History Major (UNILAG):** I apply historical and social modeling frameworks—specifically Scott Page’s "The Model Thinker"—to technical system design.  
+- **Founder:** Building Ex Machina Technologies in Ikeja, Lagos, to drive the next wave of African AI innovation.  
 
-## Interests
-- Responsible AI
-- Multilingual NLP
-- AI for Africa
-- Model evaluation & safety research
-- Startups + research
-
----
-
-## Contact
-LinkedIn: www.linkedin.com/in/temitope-ajao-4a8670302
-Email: topekele@gmail.com
+## 📫 Connect
+- **LinkedIn:**[linkedin.com/in/temitope-ajao-4a8670302](https://www.linkedin.com/in/temitope-ajao-4a8670302)  
+- **Email:** [topekele@gmail.com](mailto:topekele@gmail.com)
